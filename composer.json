@@ -3,5 +3,8 @@
   "type": "library",
   "require": {
     "php": "^7.0"
+  },
+  "autoload": {
+    "classmap": ["src/Profiler.php"]
   }
 }
